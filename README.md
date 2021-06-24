@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cgreenbo
-- 👀 I’m interested in particle physics
-- 🌱 I’m currently learning many things related to physics, big data, machine learning
-- 💞️ I’m looking to collaborate on particle physics projects (CMS)
+- 👋 Hi, I’m Chris
+- 👀 I’m interested in Particle Physics
+- 🌱 I’m currently a Physics PhD student learning many things related to Physics, Big Data, Machine Learning
+- <!---💞️ I’m looking to collaborate on particle physics projects (CMS) --->
 - 📫 How to reach me: c.greenberg@ip2i.in2p3.fr
 
 <!---
